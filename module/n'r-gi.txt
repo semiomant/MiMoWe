@@ -1,0 +1,10 @@
+N'R-GI
+N'r-gi ist eine inhärente Energie, die auf AO jeder hat. Spieltechnisch wird dies dadurch angezeigt, dass man 2+L (Token) bekommt.
+
+Die Jetons / Spielmarken könne für folgendes ausgegeben werden:
+* einen Würfel nochmal würfeln. Das neue ergebnis gilt
+* pseudoklerikale Fähigkeiten aktivieren (s.u.)
+* für ein Aktion +2 Schaden oder Rüstung
+* in weitern modulen gibt es weitere möglichkeiten
+
+--- weitergabe, entwendung?

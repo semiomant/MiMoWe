@@ -1,0 +1,11 @@
+Man kann einen KommKnoten mit 1 N'r-gi erzeugen. Jeder kann diese fertigkeit leicht erlernen ohne eine Fertigkeit nach der leveltabelle ausgeben zu müssen. Der Knoten muss einen Namen erhalten.
+
+Der Knoten ist dann 23 stunden aktiv. der knoten ist an einen gegenstand gebunden. Man kann ein Bild, von dem was man sieht in den Knoten projeziren. Auf wunsch wird das bild auf demgegenstand angezeigt, weswegen flache gegenstände wie etwa bretter am besten funktionieren. Der Gegenstand kann auch eine Wand sein.
+
+Falls derKnoten weniger als 10 Minuten besteht, kann versucht werden die N'r-gi zurück zu gewinnen. (Probe WIS/INT: bei Misserfolg verlust weitern N'r-gi)
+
+Wenn man den Namen eines KommKnoten kennt,so kann man Bilder von einem Knoten an einen anderen senden. Es gibt dabei kein Signal, welle, oder ähnliches. Reichweite unbekannt, aber niemand war je ausser reichweite. Wenn mehrere Knoten gleich heissen, wird an alle gesendet.
+
+--- transformationsknoten
+--- mehrere Namen?
+--- levelfertigkeit N'Knoten, um optionen (trans,namen etc) zu wählen.
