@@ -1,0 +1,18 @@
+Eine technlogie von Kernen (mit bots), mit farben {prismatic}
+ODER runen,salze, charms [n'r-gi aktiviert oder nicht]
+(powz oder gegnstände, haben oder aktiviert aus n'r-gi)
+**idee/techne** AKTIVIERUNG
+**techne** LEVEL
+
+**idee/modul** DEF WORLDSTYLE. Bots? oder monster? Die Hinterlassenschaft kann immer neu definiert werden.
+
+**idee/modul** Magieschulen:
+-- Alchemie (gather ingredients, bad for timed adventures, limit aktiv halten)
+-- channel elements (gwDW)
+-- nekro (gwDW)
+Man kann die grundpowz der Schule so haben, weitere durch _Level_ oder _aktivierung_
+
+**idee/module** MagieMuster:
++ bauen von matrizen, mit Zaubereffekten (d20SRDwizard)
++ aufrechterhalten, zerstörbarkeit, verschatten der regenertion (sp|n'r-gi)
++ interaktion mit n'r-gi

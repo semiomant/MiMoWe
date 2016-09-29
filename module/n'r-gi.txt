@@ -6,5 +6,6 @@ Die Jetons / Spielmarken könne für folgendes ausgegeben werden:
 * pseudoklerikale Fähigkeiten aktivieren (s.u.)
 * für ein Aktion +2 Schaden oder Rüstung
 * in weitern modulen gibt es weitere möglichkeiten
+* aktivierung von Fähigkeiten oder Gegenständen 
 
 --- weitergabe, entwendung?
