@@ -8,5 +8,11 @@ Die Jetons / Spielmarken könne für folgendes ausgegeben werden:
 * in weitern modulen gibt es weitere möglichkeiten
 * aktivierung von Fähigkeiten oder Gegenständen
 
+Man bekommt Jetons für:
+* besonderes pech
+* besondere Aktionen
+* dramatische Wendungen
+* anstatt XP als meilensteine (sic) in szenarien
+
 --- weitergabe, entwendung?
---- kristalle der alten meister (farben?)
+--- kristalle der alten meister (farben?) spreicherbedingungen

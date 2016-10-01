@@ -10,3 +10,5 @@ Wenn man den Namen eines KommKnoten kennt,so kann man Bilder von einem Knoten an
 --- mehrere Namen?
 --- levelfertigkeit N'Knoten, um optionen (trans,namen etc) zu wählen.
 --- ingenieureung vonmechanismen, die an knoten angebunden weitere optionen erlauben (bastler-fertigkeit!)
+
+--- das Gitternuer knoten && das alt-netz, mit leitungen & überwachung ICE usw
