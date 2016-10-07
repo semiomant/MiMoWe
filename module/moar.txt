@@ -1,10 +1,13 @@
+Resilienz -- geistige HP (siehe bücher)
+
 Eine technlogie von Kernen (mit bots), mit farben {prismatic}
 ODER runen,salze, charms [n'r-gi aktiviert oder nicht]
-(powz oder gegnstände, haben oder aktiviert aus n'r-gi)
+
+(powz oder gegnstände, haben vom Lvl oder aktiviert aus n'r-gi)
 **idee/techne** AKTIVIERUNG
 **techne** LEVEL
 
-**idee/modul** DEF WORLDSTYLE. Bots? oder monster? Die Hinterlassenschaft kann immer neu definiert werden.
+**idee/modul** DEF WORLDSTYLE. Bots? oder monster? Die Hinterlassenschaft kann immer neu definiert werden. WORLD CREATION prozedur
 
 **idee/modul** Magieschulen:
 -- Alchemie (gather ingredients, bad for timed adventures, limit aktiv halten)
@@ -14,5 +17,19 @@ Man kann die grundpowz der Schule so haben, weitere durch _Level_ oder _aktivier
 
 **idee/module** MagieMuster:
 + bauen von matrizen, mit Zaubereffekten (d20SRDwizard)
-+ aufrechterhalten, zerstörbarkeit, verschatten der regenertion (sp|n'r-gi)
++ aufrechterhalten, zerstörbarkeit, verschatten der regeneration (sp|n'r-gi)
 + interaktion mit n'r-gi
++ der Kontrast Aus DCC(OSR)rpg,den ich fand: mächtige random sorcery corruption GEGEN memorisierte muster, die automatisch ablaufen [gygax-vance](kontrolle & limits 'humaner magie' gegen S&S mad powz) (Zauberer für sorcery weiles auch altbacken klingt und Hexen etwas netteres bennene sollen) (Magier für patternUser)
+
+erzählbogen knotenmodul:
+"bessere" alt-netz-assisierte (ogleAI) Rechenbretter. Aktivieren automatiserte kontroll und eingreifsysteme.
+"winzige weiche Früchte des Glotzens"
+
+mahou shojo/society:
+"princess:the ..." kämpfer, träumer, magische immer als erwählte hierarchie-/-führer (vllt wg intrigen?) unterfüttert duch metaphys gut/böse kontraste
+... aber was wenn es möglich ist etwas zu tun (zu hoffen, little princess), prozeduren durchzuspielen ohne "nobility"
+... dazu gehört auch dass in Eden log offen bennannt wird das die gesellschaft auf der ausgesaugten energie anderer beruht "eine ordnung für andere um unsere wünsche zu erfüllen" --- aber dann wieder eine geste christologischen opfer adels o_0
+
+"the city will tell u":
+fengShui or -mancies to pick up info of "big others" like cities
+...;;; the stream of n'r-gis of peopleor indep spirits.
