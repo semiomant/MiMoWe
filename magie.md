@@ -1,7 +1,7 @@
 # MAGIE
 Magie ist die Beschwörung von Geistern, Wesenheiten oder Elementaren, um übernatürlicher Effekte herbeizuführen. Ein Magier beginnt das Spiel mit genung okkultem Wissen um zwei Arten von Wesen herbeizurufen. Ein magisches Wesen hat einen Namen, eine Erscheinung und zwei Domänen in seiner Macht (Flammen, Schatten, Fels, Bitze, Geheimnisse, Furcht usw.)
 
-Um ein Wesen herbeizurufen, dass du kennst, brauchst du entweder ein Ritual, dass eine Stunde dauert, oder eine Dosis Qintessenz, eine abhängig machende Droge, die auch ein wenig giftig ist (10s pro dosis). Wenn du mehr als eine Dodos Quintessenz zu dir nimst, must du einen Probe auf KON ablegen um negative Nebenwirken zu vermeiden.
+Um ein Wesen herbeizurufen, dass du kennst, brauchst du entweder ein Ritual, dass eine Stunde dauert, oder eine Dosis Qintessenz, eine abhängig machende Droge, die auch ein wenig giftig ist (10s pro dosis). Wenn du mehr als eine Dosis Quintessenz pro Tag zu dir nimst, must du einen Probe auf KON ablegen um negative Nebenwirken zu vermeiden.
 
 Magische Wesen können auch in Gegenständen gebunden sein.
 

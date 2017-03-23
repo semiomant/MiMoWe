@@ -1,7 +1,5 @@
 # Geister
-Geister gibt es 12 Jahren, seit die erhaben sich verpisst haben.
-
-Sind sie eine
+Geister gibt es 12 Jahren, seit die Erhabenen sich verpisst haben.
 
 Oder Gab es sie schon immer und sie waren bloss unterdrückt?
 
