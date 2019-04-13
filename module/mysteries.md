@@ -15,7 +15,7 @@ alternatives: DCC transylanian prepbuild-up planning ;; TFFB (reducing monster a
 # endings / thrills & desicions
 So,you found out how things are:now it is time to take action. What do you do?
 
-this is clearlymore interesting if you dont construct black-and-white problems. Maybe killing the judge was somehow a good thing ... basically bad things happen for good reason and the road to hellis paved with good intentions. Or the culprit is too powerful (level- or otherwise).
+this is clearly more interesting if you dont construct black-and-white problems. Maybe killing the judge was somehow a good thing ... basically bad things happen for good reason and the road to hell is paved with good intentions. Or the culprit is too powerful (level- or otherwise).
 
 Here you can have again thriller action with fights, stealth etc.
 
